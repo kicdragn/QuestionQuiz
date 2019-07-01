@@ -3,19 +3,26 @@
     margin-bottom: 0.5rem;
     width:100%;
     font-size: 1.8rem;
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
+    border: 0.1rem solid rgba(44, 50, 54, 0.25);
     background-color: white;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
 }
 
 
 .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: #3199f5;
     color: white;
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
 }
 
 .choice-text {
     padding: 1.5rem;
+    
 }
 
 .choice-container:hover {
