@@ -22,6 +22,7 @@
 
 .choice-text {
     padding: 1.5rem;
+    width: 100%;
     
 }
 
@@ -30,4 +31,12 @@
     box-shadow: 0 0.4rem 1.4rem 0 rgba(236, 99, 179, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
+  }
+
+  .correct {
+    background-color: #28a745;
+  }
+  
+  .incorrect {
+    background-color: #dc3545;
   }
