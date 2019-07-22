@@ -5,10 +5,7 @@
     font-size: 1.8rem;
     border: 0.1rem solid rgba(44, 50, 54, 0.25);
     background-color: white;
-    border-top-left-radius: 20%;
-    border-bottom-left-radius: 20%;
-    border-top-right-radius: 10%;
-    border-bottom-right-radius: 10%;
+;
 }
 
 
@@ -16,8 +13,7 @@
     padding: 1.5rem 2.5rem;
     background-color: #3199f5;
     color: white;
-    border-top-left-radius: 25%;
-    border-bottom-left-radius: 25%;
+
 }
 
 .choice-text {
